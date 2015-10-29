@@ -2,7 +2,6 @@
 ;; Better dead than smeg.
 ;; ----------------------
 
-
 ;; Add .emacs.d to load-path
 (setq dotfiles-dir (file-name-directory
                     (or (buffer-file-name) load-file-name)))
@@ -174,7 +173,8 @@
 		"fb-cider.el"
 		"fb-cljrefactor.el"
 		"jp-html"
-		"jp-lnf.el"))
+		"jp-lnf.el"
+		"mf-js-mode.el"))
   (load (concat dotfiles-dir file)))
 
 (global-auto-revert-mode t)

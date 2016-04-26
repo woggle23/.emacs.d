@@ -9,3 +9,4 @@ swank
 nrepl-history
 bookmarks
 tramp
+cider-nodes.el

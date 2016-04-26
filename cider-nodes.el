@@ -1,0 +1,12 @@
+cljgampint and-hsk-cljgampint1.andintweb.dmgt.net 7190
+cljgampa3 cljgampa3.hsk.mol.dmgt.net 7190
+cljgampa5 cljgampa5.hsk.mol.dmgt.net 7190
+cljgampa4 cljgampa4.hsk.mol.dmgt.net 7190
+cljgampa6 cljgampa6.hsk.mol.dmgt.net 7190
+cljgampb1 cljgampb1.hsk.mol.dmgt.net 7190
+cljgampb2 cljgampb2.hsk.mol.dmgt.net 7190
+cljgampacanary cljgampacanary.hsk.mol.dmgt.net 7190
+cljgampa1 cljgampa1.hsk.mol.dmgt.net 7190
+cljgampa2 cljgampa2.hsk.mol.dmgt.net 7190
+acolyteint 10.251.76.25 7190
+bauhausint 10.251.76.119 7891

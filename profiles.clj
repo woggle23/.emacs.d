@@ -29,7 +29,7 @@
 {:user {:dependencies [[io.aviso/pretty "0.1.6"]
                        [spyscope "0.1.4"]
                        [org.clojure/tools.namespace "0.2.4"]
-                       [leiningen "2.3.4" :exclusions [org.apache.lucene/lucene-core]]
+;;                       [leiningen "2.3.4" :exclusions [org.apache.lucene/lucene-core]]
                        [im.chit/vinyasa "0.1.7"]]
         :injections [(require 'spyscope.core)
                      (require 'vinyasa.inject)
